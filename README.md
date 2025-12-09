@@ -8,4 +8,3 @@ It benchmarks a workflow consisting of data loading, data processing (`groupby`)
 3.  **Intel® Extension for Scikit-learn:** CPU acceleration for Scikit-learn algorithms.
 4.  **NVIDIA RAPIDS:** End-to-end GPU acceleration for the entire workflow.
 
-## Project Structure
